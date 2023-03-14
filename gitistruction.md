@@ -42,4 +42,4 @@ git config --global user.email ""
 **.jpeg**
 and others.
 
-
+## 9. Создание веток в Git
