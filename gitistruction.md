@@ -1,6 +1,6 @@
 ![logo](logogit.jpg)
 
-# Работа с Git и Github
+# Работа с Git и GitHub
 
 ## 1. Проверка наличия установленного Git
 в терминале выполнить команду *git version*
