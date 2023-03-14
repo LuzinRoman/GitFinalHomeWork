@@ -43,3 +43,9 @@ git config --global user.email ""
 and others.
 
 ## 9. Создание веток в Git
+
+По умолfffffчанию имя основной ветки в Git - это ***master***
+Создать ветку можнпрапgit о командой:
+```
+git branch <название ветки> 
+```
